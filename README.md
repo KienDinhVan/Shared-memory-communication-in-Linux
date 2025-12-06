@@ -54,7 +54,7 @@ OS_prj/
 │   └── image_sharing.c           # Image buffer sharing with threads
 ├── benchmarks/
 │   └── shm_benchmark.c           # Performance comparison
-├── challenges/                   # **NEW!** Challenge demonstrations
+├── challenges/                   
 │   ├── race_condition_demo.c     # Race condition problem (buggy)
 │   ├── race_condition_fixed.c    # Race condition solution (fixed)
 │   └── deadlock_demo.c           # Deadlock demo and prevention
