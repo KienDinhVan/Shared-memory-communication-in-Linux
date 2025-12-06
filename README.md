@@ -1,8 +1,6 @@
 # Shared Memory Communication in Linux
 
 **Operating Systems Project**
-**Author:** Kien
-**Topic:** Shared memory communication implementation and challenges
 
 ---
 
