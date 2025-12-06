@@ -7,10 +7,10 @@
 ## Quick Start
 
 ```bash
-# 1. Build tất cả programs
+# 1. Build all programs
 ./build.sh
 
-# 2. Demo Race Condition (xem vấn đề thực tế)
+# 2. Demo Race Condition
 ./bin/race_condition_demo       # Shows 1285 lost updates 
 ./bin/race_condition_fixed      # Shows 0 lost updates 
 
@@ -21,7 +21,7 @@ timeout 10s ./bin/deadlock_demo buggy   # Will hang (deadlock)
 # 4. Benchmark performance
 ./bin/shm_benchmark
 
-# 5. Hoặc chạy interactive demo
+# 5. Interactive demo
 ./demo.sh
 ```
 
